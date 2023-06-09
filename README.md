@@ -23,6 +23,3 @@ Skills: Flutter / Kotlin / Node.js / Express.js / Docker
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=radeekhan)  
 
-![GitHub metrics](https://metrics.lecoq.io/radeekhan)  
-
-![Profile views](https://gpvc.arturio.dev/radeekhan)  
